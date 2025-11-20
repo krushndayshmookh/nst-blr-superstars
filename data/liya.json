@@ -1,0 +1,22 @@
+{
+  "username": "liya",
+  "name": "Liya Manikkaraju",
+  "email": "liya@daydreams.ai",
+  "bio": "Soft-hearted, sharp-minded — balancing physics, coding, and poetic skies 🌙✨",
+  "location": "Bangalore, India",
+  "favoriteColor": "Sky blue with a hint of sunset gold",
+  "favoriteGame": "Badminton — my stress-buster and flex weapon 🏸 ",
+  "hobbies": [
+    "Singing softly when no one is watching",
+    "Working out and lifting for a stronger me",
+    "Capturing sky pictures that hold hidden meanings",
+    "Talking to my favourite people in poetic lines"
+  ],
+  "superpower": "Making people feel calm just by being there — without even trying",
+  "favoriteSnack": "Samosa, chai, and sometimes biryani when the mood hits 😌",
+  "funFact": "My hair is long enough to have its own fan club — and yes, it tangles as much as it shines.",
+  "customization": {
+    "backgroundColor": "skyblue",
+    "backgroundImage": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?w=1200",
+    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Liya"
+  }
