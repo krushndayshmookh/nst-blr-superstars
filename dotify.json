@@ -1,18 +1,18 @@
 {
-  "username": "alice",
-  "name": "Alice the Pixel Wizard",
+  "username": "Dotify71",
+  "name": "Alice the Pixel Wizar",
   "email": "alice@pixelmagic.dev",
   "bio": "Turning coffee into code since 2020 ☕️→💻",
   "location": "Bangalore, India",
-  "favoriteColor": "Teal",
+  "favoriteColor": "BLACK",
   "favoriteGame": "Minecraft - I'm a redstone engineer 🔴",
-  "hobbies": "Photography, gardening succulents, binge-watching anime",
-  "superpower": "Naming variables perfectly on the first try",
-  "favoriteSnack": "Samosas and masala chai",
-  "funFact": "I have a collection of 47 different mechanical keyboards!",
+  "hobbies": "Builds In Minecraft, Photography, gardening succulents, binge-watching anime",
+  "superpower": "Learn things fast (not applicable on physics)",
+  "favoriteSnack": "Every veg things",
+  "funFact": "Nothing is coming to write here in my brain",
   "customization": {
-    "backgroundColor": "teal",
-    "backgroundImage": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1200",
-    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alice"
+    "backgroundColor": "pink",
+    "backgroundImage": "https://share.google/images/qOduzugA7JkC24GxB",
+    "profileImage": "https://share.google/images/dy0m5ERKlRdrvjIHr"
   }
 }
