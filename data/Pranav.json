@@ -1,0 +1,19 @@
+{
+  "username": "pranavchoudhary-tech",
+  "name": "Pranav Choudhary",
+  "email": "pranavmeharwal25@gmail.com",
+  "bio": "Turning coffee into code since 2025 ☕️→💻",
+  "location": "Bangalore, India",
+  "favoriteColor": "White",
+  "favoriteGame": "GTA 6",
+  "hobbies": "Gaming, binge-watching series",
+  "hometown": "Saharanpur, Uttar Pradesh"
+  "superpower": "JAAT",
+  "favoriteSnack": "Sandwich",
+  "Fact": "Puri baba di h mer...",
+  "customization": {
+    "backgroundColor": "teal",
+    "backgroundImage": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1200",
+    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alice"
+  }
+}
